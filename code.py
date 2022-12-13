@@ -59,6 +59,9 @@ for (x,y,w,h) in body:
 
 
 plt.figure(figsize=(12,12))
+
 plt.imshow(image)
+
 plt.xticks([]), plt.yticks([])  # to hide tick values on X and Y axis
+
 plt.show()
