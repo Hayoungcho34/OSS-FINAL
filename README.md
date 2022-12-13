@@ -2,7 +2,7 @@
 
 This project distinguishes a person's face from a picture of a person.
 
-First, it's the running image.
+First, it's the running image find face.
 ![image](https://cdn.discordapp.com/attachments/1022888990275280948/1052103785444556842/show.png)
 
 We used cv2, numpy, matplotlib.
